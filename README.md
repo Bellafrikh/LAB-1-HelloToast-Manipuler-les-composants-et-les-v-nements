@@ -1,5 +1,6 @@
 ﻿# LAB-1-HelloToast-Manipuler-les-composants-et-les-v-nements
-
+**Auteur :** Zaynab Bellafrikh (4IIR-G2)  
+**Institution :** EMSI - École Marocaine des Sciences de l'Ingénieur 
 
 ## Description
 HelloToast1 est une application Android simple et interactive qui illustre les concepts fondamentaux du développement mobile : l'interface utilisateur (UI) avec `LinearLayout`, la gestion des ressources et l'interaction avec l'utilisateur via des boutons.
